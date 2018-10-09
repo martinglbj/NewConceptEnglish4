@@ -8,15 +8,14 @@ First listen and then answer the following question.
 Why are legends handed down by storytellers useful?
 
 We can read of things that happened 5,000 years ago in the Near East, where people first learned to write.  
-Near East 近东，人类早期文明的发源地，大致包括了美索不达米亚，塞普路斯，古代埃及
-，古代伊朗，安那托利亚，黎凡特(Levant 指地中海东部及其岛屿和沿岸的各国希腊，黎巴
-嫩等)和阿拉伯半岛地区
+Near East 近东，人类早期文明的发源地，大致包括了美索不达米亚，塞普路斯，古代埃及，古代伊朗，安那托利亚，黎凡特(Levant 指地中海东部及其岛屿和沿岸的各国希腊，黎巴嫩等)和阿拉伯半岛地区
 介词使用：read [of] things that ... 读到；阅悉；获悉
 
 But there are some parts of the world where even now people cannot write. 
-副词使用：there are some parts of the world [where] ... parts对应where，不使用in which
-副词使用：[even] now sb. cannot do. 与 sb. [even] cannot do now 相比，强调的重点
-不同，前者强调sb. cannot do的状态一直延续“直至现在”（时间），后者强调现在这个timing“sb. 仍然cannot do”（动作）。
+副词使用：there are some parts of the world [where] ... parts对应where
+副词使用：[even] now sb. cannot do. 与 sb. [even] cannot do now 相比，强调的重点不同，
+        前者强调sb. cannot do的状态一直延续“直至现在”（时间），
+        后者强调现在这个timing“sb. 仍然cannot do”（动作）。
 
 The only way that they can preserve their history is to recount it as sagas -- legends handed down from one generation of story tellers to another.
 recount v. 叙述
@@ -28,27 +27,27 @@ legend n. 传说，传奇
       这时不如考虑将第一个that从句换成to do： The only way to do sth. is that sth_2. to be done.
 
 These legends are useful because they can tell us something about migrations of people who lived long ago, but none could write down what they did.
-migration n. 迁移，移居
 (Answer in sentence.)
-句型：sth. can tell sb. something about histories/stories/migrations of sb_2. who did ... 两次定语从句后置。以story为例，可以把句子变为：
+migration n. 迁移，移居
+句型：sth. can tell sb. something about histories/stories/migrations of sb_2. who did ... 两次定语从句后置。
+      以story为例，可以把句子变为：
       sth. can tell sb. something about the story that sb_2. did ...
-      这里可以看到带指定冠词的“the story”只适合指特定的人物或事件，这里如果用复>数stoies来表达的就应理解为泛指的不定的许多的人物或事件。
+      这里可以看到带指定冠词的“the story”只适合指特定的人物或事件，这里如果用复数stoies来表达的就应理解为泛指的不定的许多的人物或事件。
       另外the story that .. 从句可表达较复杂的story content，而stories of sb_2. who did ...做定语后置只为了突出stories的人sb_2.
 
 Anthropologists wondered where the remote ancestors of the Polynesian peoples now living in the Pacific Islands came from.
 anthropologist n. 人类学家
 ancestor n. 祖先
-Polynesian adj.波利尼西亚（中太平洋之一群岛）的
+Polynesian adj. 波利尼西亚（中太平洋之一群岛）的
 peoples n. 民族，部落，种族(pl. peoples)
-        people做为泛指的人/公民理解时，本身就指persons/citizens(pl.)，若做主语动
-词一般为复数变格。但这里不能理解为泛泛的人类。
+        people做为泛指的人/公民理解时，本身就指persons/citizens(pl.)，若做主语动词一般为复数变格。但这里不能理解为泛泛的人类。
 句型：wonder where the ancestors of sb. [now doing sth.] came from. 从句修饰the ancestors
+
 The sagas of these people explain that some of them came from Indonesia about 2,000 years ago.
 Indonesia n. 印度尼西亚
 
 But the first people who were like ourselves lived so long ago that even their sagas, if they had any, are forgotten.
-句型： lived [so] long ago [that] even their sagas are forfotten. so..that..句型
-突出了long ago这个原因
+句型： lived [so] long ago [that] even their sagas are forfotten. so..that..句型突出了long ago这个原因
 
 So archaeologists have neither history nor legends to help them to find out where the first 'modern men' came from.
 archaeologist n. 考古学家
@@ -62,7 +61,7 @@ rot n. 烂掉
 介词使用：have rotted [away] 腐烂掉
 
 Stone does not decay, and so the tools of long ago have remained when even the bones of the men who made them have disappeared without trace.
-句型：sth. does not do, [and so] sth_2. has done. 强调因果，and so之前的句子使用
-现在时，表示公理或常识性的事物
+句型：sth. does not do, [and so] sth_2. has done. 强调因果，and so之前的句子使用现在时，表示公理或常识性的事物
+句型:the tools [of long ago] have done when [even] the bones [of the men] have done. 两个定语后置修饰的名词，在when even的左右两边，形成对称排列，且even的加入，在语气上有转折，形成对比。
 
 **ROBIN PLACE** _Finding fossil man_
