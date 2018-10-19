@@ -19,7 +19,7 @@ Insects would make it impossible for us to live in the world;
 they would devour all our crops and kill our flocks and herds, if it were not for the protection we get from insect-eating animals.
 devour v.吞食; (一口气)读完; vt.狼吞虎咽;
 flocks and herds 羊群与牛群,牛羊家畜
-句型：they would do sth., if it were not for the protection (that) we get from sth. 整个if从句用过去式强调了虚拟语气（这里用were而不是was，是虚拟从句的标准用法>，be以外的动词则为过去式），而主句用would do更突出了从未曾发生的假想事件。
+句型：they would do sth., if it were not for the protection (that) we get from sth. 整个if从句用过去式强调了虚拟语气（这里用were而不是was，是虚拟从句的标准用法，be以外的动词则为过去式），而主句用would do更突出了从未曾发生的假想事件。
 至于the protection (that) we get from sth.用的现在式get而不是got，是因为that从句修饰的protection是自然存在的、正当公理性的事物，不由假设条件所改变。
 
 We owe a lot to the birds and beasts who eat insects but all of them put together kill only a fraction of the number destroyed by spiders.
@@ -27,7 +27,7 @@ Beast n. 野兽
 owe to sb. 归功于
 
 Moreover, unlike some of the other insect eaters, spiders never do the harm to us or our belongings.
-短语：never do [the] harm [to] sb./sth. 这里用定冠词the有特指吗？为何不用不定冠>词a？
+短语：never do [the] harm [to] sb./sth. 这里用定冠词the有特指吗？为何不用不定冠词a？
 
 Spiders are not insects, as many people think, nor even nearly related to them.
 句型：spiders are not insects, nor even related to them.
@@ -35,9 +35,7 @@ be [not] sb., [nor] even related to sb. 连续否定，even语气增强
 
 One can tell the difference almost at a glance, for a spider always has eight legs and insect never more than six.
 短语：at a glance / take a glance at sth.
-句型：for a spider has eight legs and insect (has) never more than six (legs).注
-意省略的动词和名词均为并列句式前半段出现过的，这种完全对称的并列句式，使用省略手
-法会使句子简洁而不失严谨，是科学/论文/新闻/或绅士用语的很好例子。
+句型：for a spider has eight legs and insect (has) never more than six (legs).注意省略的动词和名词均为并列句式前半段出现过的，这种完全对称的并列句式，使用省略手法会使句子简洁而不失严谨，是科学/论文/新闻/或绅士用语的很好例子。
 
 How many spiders are engaged in this work on our behalf?
 短语：on sb.'s behalf 为某人之利益;做某人的代表
@@ -48,26 +46,21 @@ census n. 统计数字
 Acre n. 英亩
 
 that is something like 6,000,000 spiders of different kinds on a football pitch.
-on a football pitch 在一个足球场那么大的地方，pitch n.（足球、橄榄球）场地，最早
-从pitch的动词含义(投掷,投球)引申为名词(投球的距离)，进而将固定进行投球活动的场地
-用pitch指代
+on a football pitch 在一个足球场那么大的地方，pitch n.（足球、橄榄球）场地，最早从pitch的动词含义(投掷,投球)引申为名词(投球的距离)，进而将固定进行投球活动的场地用pitch指代
 
 Spiders are busy for at least half the year in killing insects.
-短语：be busy in doing ... for sometime 耗费（多长）时间忙于做，此处时间介词短语
-前置
+短语：be busy in doing ... for sometime 耗费（多长）时间忙于做，此处时间介词短语前置
 
 It is impossible to make more than the wildest guess at how many they kill, but they are hungry creatures, not content with only three meals a day.
 make a guess [at] sth. 此处at指向一个具体的事物/问题
-it's impossible to make [more than] the wildest guess at sth. 以最高级修饰guess>，又在最高级程度前添加more than，尽可能放宽quess的范围，突出impossible的转折语气
-。
+it's impossible to make [more than] the wildest guess at sth. 以最高级修饰guess，又在最高级程度前添加more than，尽可能放宽guess的范围，突出impossible的转折语气。
 content adj. 满足的
 短语：be content [with] sth.
 
 It has been estimated that the weight of all the insects destroyed by spiders in Britain in one year would be greater than the total weight of all the human beings in the country.
 (Answer in sentence.)
 句型：it is estimated that ...后跟陈述句用虚拟语气。
-句型：the weight of all the insects done by sb. would be greater than the [total] weight of all the human beings in somewhere.比较级连接前后两个完全相同结构的对
-象，对称工整，后面的对象用total强调，更突出比较级所倾向的前者对象。
+句型：the weight of all the insects done by sb. would be greater than the [total] weight of all the human beings in somewhere.比较级连接前后两个完全相同结构的对象，对称工整，后面的对象用total强调，更突出比较级所倾向的前者对象。
 
 **T. H. GILLESPIE** _Spare that spider_
 作者简介：(from wikipedia)
